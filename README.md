@@ -2,21 +2,19 @@
 
 This repository hosts **official release builds, release notes, and issue tracking** for **Video Commander**, a desktop application for inspecting, debugging, and delivering professional video files.
 
-> **This is a releases-only repository.**  
-> The application source code lives in a separate private development repository.
-
 <div align="center">
+  <img width="800" height="534" alt="01_screenshot_mediainfo" src="https://github.com/user-attachments/assets/45ed4540-1325-4257-8dbf-7af9a494ee77" />
   <p>
     <a href="https://video-commander.com">Website</a> •
     <a href="https://github.com/alfg/video-commander-releases/releases">Downloads</a> •
     <a href="https://github.com/alfg/video-commander/issues">Issues</a>
     <a href="https://github.com/alfg/video-commander/discussions">Discussions</a>
   </p>
+  <h2><a href="https://github.com/alfg/video-commander-releases/releases/latest">📦 Latest Release</a></h2>
 </div>
 
-## 📦 [Latest Release](https://github.com/alfg/video-commander-releases/releases/latest)
-
----
+> **This is a releases-only repository.**  
+> The application source code lives in a separate private development repository.
 
 ## 🚀 What is Video Commander?
 
