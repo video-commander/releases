@@ -2,8 +2,10 @@
 
 This repository hosts **official release builds, release notes, and issue tracking** for **Video Commander**, a desktop application for inspecting, debugging, and delivering professional video files.
 
+
+
 <div align="center">
-  <img width="800" height="534" alt="01_screenshot_mediainfo" src="https://github.com/user-attachments/assets/45ed4540-1325-4257-8dbf-7af9a494ee77" />
+  <img width="1200" height="800" alt="screenshot_inspect_overview" src="https://github.com/user-attachments/assets/18f86189-cef2-471f-b3fe-8ea7b6a161d8" />
   <p>
     <a href="https://video-commander.com">Website</a> •
     <a href="https://github.com/alfg/video-commander-releases/releases">Downloads</a> •
