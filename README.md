@@ -3,7 +3,6 @@
 This repository hosts **official release builds, release notes, and issue tracking** for **Video Commander**, a desktop application for inspecting, debugging, and delivering professional video files.
 
 
-
 <div align="center">
   <img width="1200" height="800" alt="screenshot_inspect_overview" src="https://github.com/user-attachments/assets/18f86189-cef2-471f-b3fe-8ea7b6a161d8" />
   <p>
@@ -32,7 +31,7 @@ It focuses on **deep media inspection and delivery tooling**, combining low-leve
 * Analyze -> VMAF Quality
 * Preview -> Video Player with metrics
 
-Video Commander is built as a **desktop app** (macOS first), prioritizing performance, transparency, and control.
+Video Commander is built as a **desktop app**, prioritizing performance, transparency, and control.
 
 ---
 
