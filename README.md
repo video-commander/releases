@@ -18,7 +18,7 @@ This repository hosts **official release builds, release notes, and issue tracki
 > **This is a releases-only repository.**  
 > The application source code lives in a separate private development repository.
 
-## 🚀 What is Video Commander?
+## What is Video Commander?
 
 **Video Commander** is a fast, offline desktop application designed for professional video workflows.
 
@@ -36,11 +36,11 @@ Video Commander is built as a **desktop app** (macOS first), prioritizing perfor
 
 ---
 
-## 📦 Downloads
+## Downloads
 
 All official builds are published via GitHub Releases:
 
-👉 **View Releases & Download**  
+**View Releases & Download**  
 https://github.com/alfg/video-commander-releases/releases
 
 Each release includes:
@@ -51,7 +51,7 @@ Each release includes:
 
 ---
 
-## 🐞 Issues & Feedback
+## Issues & Feedback
 
 This repository is the **public issue tracker** for Video Commander.
 
